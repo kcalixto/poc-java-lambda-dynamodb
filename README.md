@@ -1,0 +1,1 @@
+# poc-java-lambda-dynamodb
